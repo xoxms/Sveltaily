@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+* {
+  @apply duration-200;
+}
+
+h1 {
+  font-size: 1.5em;
+  font-family: 'Poppins', sans-serif;
+}
