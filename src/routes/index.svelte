@@ -10,7 +10,7 @@
   <div class="flex flex-col items-center justify-center gap-12">
     <img src="/Sveltaily.svg" alt="Sveltaily" width="300vw" />
     <div class="flex flex-col items-center justify-center">
-      <h1 class="md:text-7xl dark:text-white text-black text-3xl">
+      <h1 class="md:text-7xl dark:text-white text-black text-3xl page-title">
         Welcome to
         <span class="text-orange-600">Svel</span><span class="text-blue-500">taily</span>
       </h1>
