@@ -13,8 +13,8 @@
 First you could clone or fork this project or repository to your local machine.
 By using `git` or `degit` commands
 
-Git: `git clone https://github.com/thevvx/Sveltemplate`
-Degit: `degit tihevvx/Sveltemplate`
+Git: `git clone https://github.com/thevvx/sveltaily.git`
+Degit: `degit tihevvx/sveltaily`
 
 Then you need to install all required dependencies with pnpm (preferred) or yarn.
 By running `pnpm install` or `yarn` you will get all required dependencies.
