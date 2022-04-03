@@ -36,5 +36,5 @@ After that you could run `pnpm dev` or `yarn dev` to start the development serve
 - [x] Responsive design out of the box
 - [x] LocalStorage support
 - [x] Cool modal transitions
-- [ ] Testing library
+- [x] Testing library
 - [x] Prettier and ESLint support
