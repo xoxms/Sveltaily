@@ -1,5 +1,7 @@
 <script lang="ts">
   import { darkTheme } from '$lib/store';
+  import Kofi from '$lib/components/Kofi.svelte';
+  import SocialButtons from '$lib/components/SocialButtons.svelte';
   import '../tailwind.css';
   import '../index.css';
 </script>
@@ -9,4 +11,6 @@
     {$darkTheme ? '🌙' : '🌞'}
   </button>
   <slot />
+  <Kofi name={'tinvv'} />
+  <SocialButtons />
 </div>
